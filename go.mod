@@ -1,4 +1,4 @@
-module github.com/negmat87/stats
+module github.com/negmat87/stats/v2
 
 go 1.16
 

@@ -1,7 +1,7 @@
 package stats
 
 import (
-	"github.com/negmat87/bank/pkg/types"
+	"github.com/negmat87/bank/v2/pkg/types"
 	"fmt"
 )
 func ExampleAvg() {
